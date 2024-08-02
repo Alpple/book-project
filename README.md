@@ -1,4 +1,4 @@
-# videomeeting
+# book-projecy
 
 ## Project setup
 ```
